@@ -17,4 +17,4 @@ The application displays an h1 element with the text "Codin 1".
 ### Step 1: Clone Repository
 ```bash
 git clone <https://github.com/rrajbirkaur2/assignment11-docker-react>
-cd kaur_rajbir_site
+cd C:\kaur_rajbir_site
