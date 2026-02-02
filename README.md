@@ -34,13 +34,13 @@ Codin 1
 git clone https://github.com/rrajbirkaur2/assignment11-docker-react
 
 ### Step 2: Navigate to the Project Folder
-cd C:\\kaur_rajbir_site
+cd C:\kaur_rajbir_site
 
 ### Step 3: Build the Docker Image
 docker build -t kaur_rajbir_coding_assignment11 .
 
 ### Step 4: Run the Docker Container
-docker run -p 7775:3000 --name kaur_rajbir_coding_assignment11 kaur_rajbir_coding_assignment11
+docker run -p 7775:3000 --name kaur_rajbir_coding_assignment11 kaur_rajbir_coding_assignment11c
 
 ## Access the Application
 Open a browser and go to:
