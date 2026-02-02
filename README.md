@@ -48,3 +48,13 @@ http://127.0.0.1:7775
 
 You should see:
 Codin 1
+
+## Testing and Deployment
+
+Docker helps mitigate risk by ensuring consistent environments across development and deployment.
+React applications can be tested using unit and integration testing tools such as Jest.
+Docker containers support CI/CD pipelines by enabling repeatable and reliable builds.
+
+## CI/CD Summary
+
+CI/CD automates building, testing, and deploying applications. Docker simplifies this process by packaging the application and its dependencies into a single container, ensuring consistent delivery across environments.
