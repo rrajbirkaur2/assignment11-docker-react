@@ -58,3 +58,4 @@ Docker containers support CI/CD pipelines by enabling repeatable and reliable bu
 ## CI/CD Summary
 
 CI/CD automates building, testing, and deploying applications. Docker simplifies this process by packaging the application and its dependencies into a single container, ensuring consistent delivery across environments.
+ v
