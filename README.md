@@ -40,7 +40,7 @@ cd C:\kaur_rajbir_site
 docker build -t kaur_rajbir_coding_assignment11 .
 
 ### Step 4: Run the Docker Container
-docker run -p 7775:3000 --name kaur_rajbir_coding_assignment11 kaur_rajbir_coding_assignment11c
+docker run -p 7775:3000 --name kaur_rajbir_coding_assignment11 kaur_rajbir_coding_assignment11
 
 ## Access the Application
 Open a browser and go to:
